@@ -26,7 +26,7 @@ char-set: E, l, d, i, n, a, r, p <br/>
 
 ### [Curvature > Broken](CurvatureBroken/)
 char-set: E, l, a, n, o, b <br/>
-<img src="README_media/CrimVarious/CurvatureBroken/Crim_CurvatureBroken-VF.gif" height="150">
+<img src="README_media/Crim_CurvatureBroken-VF.gif" height="150">
 
 ### [Curvature > Wiggle](CurvatureWiggle/)
 char-set: E, n, l, o, e, t, b, a, r <br/>
