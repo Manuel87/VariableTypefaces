@@ -43,3 +43,4 @@ char-set: H,n,o
 <br/>
 ## Variable Icons
 ![top level type variables](README_media/type-variables.gif)
+(used here: https://github.com/Manuel87/TypedesignFramework)
