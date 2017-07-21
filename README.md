@@ -41,6 +41,16 @@ char-set: H,n,o
 <br/>
 <br/>
 <br/>
-## Variable Icons
+## Variable Icons for an extensive list of formal variables
 ![top level type variables](README_media/type-variables.gif)
-(used here: https://github.com/Manuel87/TypedesignFramework)
+- full list: http://manuel.vongebhardi.de/theory/typedesign-framework/
+- (repository: https://github.com/Manuel87/TypedesignFramework)
+
+
+## Credits
+These projects were partially funded by Google Fonts.
+
+
+## Related
+- https://github.com/Manuel87/VariableFonts-RepositoryOverview
+
